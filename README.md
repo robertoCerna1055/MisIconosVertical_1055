@@ -1,6 +1,6 @@
 # myapp
 
-## Columna de iconos simetrica
+## Columna de iconos Vertical
 ![alt text](image.png) 
 
 
